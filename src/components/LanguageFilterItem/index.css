@@ -1,0 +1,22 @@
+.tabItem-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tabItem-container button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  padding: 6px 12px;
+  font-weight: 700;
+}
+
+.activeTab {
+  border: 2px solid #0284c7;
+  border-radius: 45%;
+}
+.btn {
+  color: #0284c7;
+  font-weight: 500;
+}
